@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "2"
+echo "1"
 ./count2.sh
