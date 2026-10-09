@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "3"
+echo "THREE"
 ./count4.sh
