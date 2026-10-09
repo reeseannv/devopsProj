@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "9"
+echo "NINE"
 ./count10.sh
